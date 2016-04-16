@@ -1,0 +1,28 @@
+name: TeamImpact
+favicon: null
+layout_spectrum: 0.7340446577873081
+typography_spectrum: 0.7346463911235332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.660167177207768
+  lightness: 0.8193036878947169
+  saturation: 0.9832160628866404
+  rhythmicContrast: 0.5978274047374725
+purpose: []
