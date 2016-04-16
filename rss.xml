@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TeamImpact]]></title>
         <description><![CDATA[TeamImpact]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teamimpact/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 01:41:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 01:46:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teamimpact/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a675ee82-066a-44d1-a57f-21ac08780833.png">]]></description>
-            <link>undefinedb6ee21e7-c07a-4675-82e1-825f0565c45b/index.html</link>
+            <link>https://thegrid.ai/teamimpact/b6ee21e7-c07a-4675-82e1-825f0565c45b/index.html</link>
             <guid isPermaLink="false">b6ee21e7-c07a-4675-82e1-825f0565c45b</guid>
-            <pubDate>Sat, 16 Apr 2016 01:40:44 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 01:46:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
