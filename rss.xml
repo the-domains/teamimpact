@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TeamImpact]]></title>
-        <description><![CDATA[TeamImpact]]></description>
+        <title><![CDATA[Team Impact]]></title>
+        <description><![CDATA[Team Impact]]></description>
         <link>https://thegrid.ai/teamimpact/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 01:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 01:52:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teamimpact/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a675ee82-066a-44d1-a57f-21ac08780833.png">]]></description>
+            <title><![CDATA[Kinetic Code]]></title>
+            <description><![CDATA[<article><h1>Kinetic Code</h1><h2>Today's Progress</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a675ee82-066a-44d1-a57f-21ac08780833.png"></article>]]></description>
             <link>https://thegrid.ai/teamimpact/b6ee21e7-c07a-4675-82e1-825f0565c45b/index.html</link>
             <guid isPermaLink="false">b6ee21e7-c07a-4675-82e1-825f0565c45b</guid>
-            <pubDate>Sat, 16 Apr 2016 01:46:28 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 01:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
