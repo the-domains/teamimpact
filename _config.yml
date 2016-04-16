@@ -2,6 +2,7 @@ name: TeamImpact
 favicon: null
 layout_spectrum: 0.26642
 typography_spectrum: 0.88614
+title: Team Impact
 cta:
   domain: null
   bucket: null
